@@ -9,7 +9,7 @@ learning code for learning how to make Twibbon with Python.
 
 ## how to use?
 ```
-create.py <path_your_picture> <your_name> <descritpion>
+create.py <path_your_picture> <your_name> <description>
 ```
 
 * **example**
