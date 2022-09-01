@@ -36,4 +36,5 @@ in the `img/twibbon.png` folder as you wish and can replace the fonts on
 **note:** But you need to change the position of the writing layout in this program. Maybe you can search for Google "how to search for a position in the image"
 
 
-support me at
+# support 
+you can support me with give me a star in this repo :3
