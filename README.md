@@ -23,7 +23,8 @@ output? like this!
 <img src="img/example_result.jpg">
 
 
-**NOTE**: You must change your picture size to 1000x1000
+**NOTE**: You must change your picture size to 1000x1000 before input 
+your picture to program
 
 
 # modification
